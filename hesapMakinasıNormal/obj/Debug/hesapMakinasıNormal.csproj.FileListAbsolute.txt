@@ -1,0 +1,11 @@
+C:\Users\yasong\Documents\vsprojects\hesapMakinasıNormal\hesapMakinasıNormal\bin\Debug\hesapMakinasıNormal.exe.config
+C:\Users\yasong\Documents\vsprojects\hesapMakinasıNormal\hesapMakinasıNormal\bin\Debug\hesapMakinasıNormal.exe
+C:\Users\yasong\Documents\vsprojects\hesapMakinasıNormal\hesapMakinasıNormal\bin\Debug\hesapMakinasıNormal.pdb
+C:\Users\yasong\Documents\vsprojects\hesapMakinasıNormal\hesapMakinasıNormal\obj\Debug\hesapMakinasıNormal.csproj.AssemblyReference.cache
+C:\Users\yasong\Documents\vsprojects\hesapMakinasıNormal\hesapMakinasıNormal\obj\Debug\hesapMakinasıNormal.csproj.SuggestedBindingRedirects.cache
+C:\Users\yasong\Documents\vsprojects\hesapMakinasıNormal\hesapMakinasıNormal\obj\Debug\hesapMakinasıNormal.Form1.resources
+C:\Users\yasong\Documents\vsprojects\hesapMakinasıNormal\hesapMakinasıNormal\obj\Debug\hesapMakinasıNormal.Properties.Resources.resources
+C:\Users\yasong\Documents\vsprojects\hesapMakinasıNormal\hesapMakinasıNormal\obj\Debug\hesapMakinasıNormal.csproj.GenerateResource.cache
+C:\Users\yasong\Documents\vsprojects\hesapMakinasıNormal\hesapMakinasıNormal\obj\Debug\hesapMakinasıNormal.csproj.CoreCompileInputs.cache
+C:\Users\yasong\Documents\vsprojects\hesapMakinasıNormal\hesapMakinasıNormal\obj\Debug\hesapMakinasıNormal.exe
+C:\Users\yasong\Documents\vsprojects\hesapMakinasıNormal\hesapMakinasıNormal\obj\Debug\hesapMakinasıNormal.pdb
